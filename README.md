@@ -2,15 +2,15 @@
 
 </p>
 <p align="center">
-    <a href="https://github.com/Tonic990/Tonic-User"> <img src="https://img.shields.io/github/repo-size/Tonic990/Tonic-Userbot?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Tonic990/Tonic-User/commits"> <img src="https://img.shields.io/github/last-commit/Tonic990/Tonic-Userbot?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Tonic990/Tonic-User/issues"> <img src="https://img.shields.io/github/issues/Tonic990/Tonic-Userbot?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/Tonic990/Tonic-User/network/members"> <img src="https://img.shields.io/github/forks/Tonic990/Tonic-Userbot?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://github.com/Rizz890/Rizz-User"> <img src="https://img.shields.io/github/repo-size/Rizz990/Rizz-User?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Rizz990/Rizz-User/commits"> <img src="https://img.shields.io/github/last-commit/Rizz990/Tonic-User?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Rizz990/Rizz-User/issues"> <img src="https://img.shields.io/github/issues/Rizz990/Rizz-User?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/Rizz990/Rizz-User/network/members"> <img src="https://img.shields.io/github/forks/Rizz990/Rizz-User?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/33193e0075fc37c000379.jpg">
+  <img src="https://telegra.ph/file/a45ca336ef2d2f099759e.jpg">
 </p>
 
 ## <p align="center">DEPLOY TO HEROKU</p>
