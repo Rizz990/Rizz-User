@@ -279,14 +279,14 @@ ALIVE_LOGO = os.environ.get(
 
 # Default .helpme Logo
 INLINE_PIC = os.environ.get(
-    "INLINE_PIC") or "https://telegra.ph/file/33193e0075fc37c000379.jpg"
+    "INLINE_PIC") or "https://telegra.ph/file/a45ca336ef2d2f099759e.jpg"
 
 # Default emoji help
 INLINE_EMOJI = os.environ.get("INLINE_EMOJI") or "✨"
 
 # Last.fm Module
 BIO_PREFIX = os.environ.get("BIO_PREFIX", None)
-DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "Tonic-Userbot"
+DEFAULT_BIO = os.environ.get("DEFAULT_BIO") or "Rizz-Userbot"
 
 LASTFM_API = os.environ.get("LASTFM_API", None)
 LASTFM_SECRET = os.environ.get("LASTFM_SECRET", None)
