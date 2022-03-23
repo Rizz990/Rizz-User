@@ -253,7 +253,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "Rizz-Userboot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "Rizz-Userbot")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "5.0")
@@ -270,12 +270,12 @@ CMD_HANDLER = os.environ.get("CMD_HANDLER") or "."
 SUDO_HANDLER = os.environ.get("SUDO_HANDLER", r"$")
 
 # Support
-GROUP = os.environ.get("GROUP", "PrimeSupportGroup")
-CHANNEL = os.environ.get("CHANNEL", "PrimeSupportChannel")
+GROUP = os.environ.get("GROUP", "YaikuSupportt")
+CHANNEL = os.environ.get("CHANNEL", "YaikuSupportt")
 
 # Default .alive Logo
 ALIVE_LOGO = os.environ.get(
-    "ALIVE_LOGO") or "https://telegra.ph/file/33193e0075fc37c000379.jpg"
+    "ALIVE_LOGO") or "https://telegra.ph/file/a45ca336ef2d2f099759e.jpg"
 
 # Default .helpme Logo
 INLINE_PIC = os.environ.get(
