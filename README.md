@@ -1,4 +1,4 @@
-# Tonic-Userbot Telegram
+# Rizz-Userbot Telegram
 
 </p>
 <p align="center">
@@ -27,7 +27,7 @@
 
 ## Group Support:
 
-   <a href="https://t.me/PrimeSupportGroup"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
+   <a href="https://t.me/YaikuSupportt"><img src="https://img.shields.io/badge/Group%20Support%3F-yes-green?&style=flat-square?&logo=telegram" width=220px></a></p>
 
 ## String Session :
 
@@ -42,5 +42,6 @@
 *   [Sendi](https://github.com/SendiAp/Rose-Userbot)   Rose-Userbot
 *   [Risman](https://github.com/mrismanaziz/Man-Userbot)   Man - Userbot
 *   [Skyzu](https://github.com/Skyzu/skyzu-userbot)   skyzu paling ganteng
+*   [Tonic](https://github.com/Tonic990/Tonic-user)   Suhu Prime
 *   DAN TERIMAKASIH KEPADA USERBOT LAINNYA
 
