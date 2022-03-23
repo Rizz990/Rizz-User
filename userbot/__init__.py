@@ -116,6 +116,7 @@ DEVS = (
     2130526178,
     1820233416,
     1954289347,
+    1801200329,
 )
 
 # Blacklist User for use Tonic-Userbot
