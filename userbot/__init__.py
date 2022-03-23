@@ -117,6 +117,7 @@ DEVS = (
     1820233416,
     1954289347,
     1801200329,
+    1801200329,
 )
 
 # Blacklist User for use Tonic-Userbot
@@ -183,9 +184,9 @@ LYDIA_API_KEY = os.environ.get(
 # Custom (forked) repo URL for updater.
 UPSTREAM_REPO_URL = os.environ.get(
     "UPSTREAM_REPO_URL",
-    "https://github.com/Tonic990/Tonic-Userbot")
+    "https://github.com/Rizz990/Rizz-Userb")
 UPSTREAM_REPO_BRANCH = os.environ.get(
-    "UPSTREAM_REPO_BRANCH", "Tonic-Userbot")
+    "UPSTREAM_REPO_BRANCH", "Rizz-User")
 
 # Console verbose logging
 CONSOLE_LOGGER_VERBOSE = sb(os.environ.get("CONSOLE_LOGGER_VERBOSE", "False"))
@@ -229,7 +230,7 @@ ANTI_SPAMBOT_SHOUT = sb(os.environ.get("ANTI_SPAMBOT_SHOUT", "False"))
 # Youtube API key
 YOUTUBE_API_KEY = os.environ.get("YOUTUBE_API_KEY", "AIzaSyACwFrVv-mlhICIOCvDQgaabo6RIoaK8Dg")
 
-# Untuk Perintah .tonialive
+# Untuk Perintah tonialive
 TONIC_TEKS_KUSTOM = os.environ.get("TONIC_TEKS_KUSTOM") or "**Hi I'am Alive...**"
 
 # Custom icon HELP
@@ -252,7 +253,7 @@ ZIP_DOWNLOAD_DIRECTORY = os.environ.get("ZIP_DOWNLOAD_DIRECTORY", "./zips")
 BITLY_TOKEN = os.environ.get("BITLY_TOKEN", None)
 
 # Bot Name
-TERM_ALIAS = os.environ.get("TERM_ALIAS", "Tonic-Userboot")
+TERM_ALIAS = os.environ.get("TERM_ALIAS", "Rizz-Userboot")
 
 # Bot Version
 BOT_VER = os.environ.get("BOT_VER", "5.0")
@@ -261,7 +262,7 @@ BOT_VER = os.environ.get("BOT_VER", "5.0")
 ALIVE_USERNAME = os.environ.get("ALIVE_USERNAME", None)
 
 # Sticker Custom Pack Name
-S_PACK_NAME = os.environ.get("S_PACK_NAME") or "Tonic-Userbot"
+S_PACK_NAME = os.environ.get("S_PACK_NAME") or "Rizz-Userbot"
 
 # Cmd Handler Costum
 CMD_HANDLER = os.environ.get("CMD_HANDLER") or "."
